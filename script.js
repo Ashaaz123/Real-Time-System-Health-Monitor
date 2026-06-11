@@ -345,12 +345,12 @@ themeBtn.addEventListener(
         ){
 
             themeBtn.innerHTML =
-                "☀️ Light Mode";
+                "☀️ Light Theme Mode";
 
         } else {
 
             themeBtn.innerHTML =
-                "🌙 Dark Mode";
+                "🌙 Dark Theme Mode";
 
         }
 
