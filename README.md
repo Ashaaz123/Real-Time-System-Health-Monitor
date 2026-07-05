@@ -1,8 +1,8 @@
-# 🚀 Server Health Monitor
+# 🚀 Real-Time System Health Monitor
 
 ## 📌 Overview
 
-Server Health Monitor is a web-based monitoring application designed to track the health and status of servers.
+Real-Time System Health Monitor is a web-based monitoring application designed to track the health and status of servers.
 
 The application provides a simple and interactive dashboard that displays server information and helps users monitor server availability and performance.
 
@@ -37,7 +37,7 @@ The application provides a simple and interactive dashboard that displays server
 ## 📂 Project Structure
 
 ```text
-Server-Health-Monitor/
+Real-Time-System-Health-Monitor/
 │
 ├── index.html
 ├── style.css
@@ -59,8 +59,8 @@ Server-Health-Monitor/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Ashaaz123/Server-Health-Monitor.git
-cd Server-Health-Monitor
+git clone https://github.com/Ashaaz123/Real-Time-System-Health-Monitor.git
+cd Real-Time-System-Health-Monitor
 ```
 
 ### Step 2: Install Dependencies
